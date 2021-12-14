@@ -1,2 +1,1 @@
-
-<a href="https://oussamahorrigue.github.io/React-website/" target = "_blank">Tap here to try the website</a>
+<h2>Link:   </h2> "https://oussamahorrigue.github.io/React-website/" 
